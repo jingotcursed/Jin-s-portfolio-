@@ -23,11 +23,11 @@ It is a modern, responsive, and animated website designed to showcase my skills 
 
 You can view the live website here:
 
-https://your-username.github.io/my-portfolio/
+https://jingotcursed.github.io/Jin-s-portfolio-/
 
 or
 
-https://your-site.netlify.app
+https://jingotcursed.notify.app
 
 ---
 
@@ -49,7 +49,7 @@ https://your-site.netlify.app
 
 ## 📬 Contact
 
-- WhatsApp: https://wa.me/6289530657405  
+- WhatsApp: https://wa.me/62895306*****  
 - Email: Available via contact form on website  
 
 ---
